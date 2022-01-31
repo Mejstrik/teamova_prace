@@ -10,6 +10,9 @@ namespace Teamovy_projekt
     {
         static void Main(string[] args)
         {
+            Mejstrik m = new Mejstrik();
+            m.Jmeno = "Rudolf";
+            m.Prijmeni = "Mejstřík";
         }
     }
 }
